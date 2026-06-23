@@ -3,4 +3,4 @@ User-agent: *
 Allow: /
 
 # Sitemap Location (Replace with your actual domain name once connected)
-Sitemap: https://your-custom-domain.com/sitemap.xml
+Sitemap: https://www.orbitmobiles.uk/sitemap.xml
