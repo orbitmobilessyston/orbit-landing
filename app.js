@@ -4,7 +4,7 @@
 
 // CONFIGURATION: Replace with your exact WhatsApp mobile number (with country code, no + or 00)
 // Example: If your UK number is 07700 900077, enter: "447700900077"
-const WHATSAPP_NUMBER = "447700900077";
+const WHATSAPP_NUMBER = "447708877665";
 
 document.addEventListener("DOMContentLoaded", () => {
     const inquiryForm = document.getElementById("whatsapp-inquiry-form");
