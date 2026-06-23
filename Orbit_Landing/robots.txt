@@ -1,6 +1,0 @@
-# Allow all crawlers to index the site
-User-agent: *
-Allow: /
-
-# Sitemap Location (Replace with your actual domain name once connected)
-Sitemap: https://your-custom-domain.com/sitemap.xml
