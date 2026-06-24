@@ -1,6 +1,0 @@
-# Allow all crawlers to index the site
-User-agent: *
-Allow: /
-
-# Sitemap Location
-Sitemap: https://www.orbitmobiles.uk/sitemap.xml
